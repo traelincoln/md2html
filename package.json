@@ -1,0 +1,21 @@
+{
+  "name": "md2html",
+  "version": "1.0.0",
+  "description": "Parse markdown to html",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/traelincol/mk2html"
+  },
+  "keywords": [
+    "Markdown",
+    "Html",
+    "Parser"
+  ],
+  "author": "Trevour L. Chidoti",
+  "license": "MIT"
+}
